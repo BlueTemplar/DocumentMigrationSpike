@@ -1,0 +1,24 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+# VS user preference configs, specific to your machine
+*.suo
+*.DotSettings
+*.user
+*.dll
+*.pdb
+# Test coverage files in the TestResults
+*.coverage
+# Nuget packages dir. 
+packages/
+*.ncrunchsolution
+*.ncrunchsolution.user
+*.ncrunchproject
+*.crunchsolution.cache
+build/
+[Tt]est[Rr]esult*
+_NCrunch_AngularForDotNet*/
+
+errors.txt
